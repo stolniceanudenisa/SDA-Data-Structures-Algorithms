@@ -1,0 +1,23 @@
+﻿  ATM.cpp
+  Collection.cpp
+C:\Users\40766\source\repos\Lab45sdafinal\Collection.cpp(169,18): warning C4305: 'return': truncation from 'int' to 'bool'
+  Interfata.cpp
+C:\Users\40766\source\repos\Lab45sdafinal\Interfata.cpp(143,10): warning C4101: 'pozi2': unreferenced local variable
+C:\Users\40766\source\repos\Lab45sdafinal\Interfata.cpp(142,9): warning C4101: 'suma1': unreferenced local variable
+  Lab45sdafinal.cpp
+  TestList.cpp
+C:\Users\40766\source\repos\Lab45sdafinal\List.h(151,9): warning C4101: 'e': unreferenced local variable
+C:\Users\40766\source\repos\Lab45sdafinal\List.h(150,1): message : while compiling class template member function 'T List<T>::delete_at(int)'
+          with
+          [
+              T=int
+          ]
+C:\Users\40766\source\repos\Lab45sdafinal\TestList.cpp(77,5): message : see reference to function template instantiation 'T List<T>::delete_at(int)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\40766\source\repos\Lab45sdafinal\TestList.cpp(11,15): message : see reference to class template instantiation 'List<int>' being compiled
+  Tranzactie.cpp
+  Generating Code...
+  Lab45sdafinal.vcxproj -> C:\Users\40766\source\repos\Lab45sdafinal\x64\Debug\Lab45sdafinal.exe
