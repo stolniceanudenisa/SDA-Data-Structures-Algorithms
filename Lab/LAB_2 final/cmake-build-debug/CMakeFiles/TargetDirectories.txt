@@ -1,0 +1,3 @@
+C:/Users/40766/OneDrive/Desktop/LAB_2fjnal/cmake-build-debug/CMakeFiles/LAB_2.dir
+C:/Users/40766/OneDrive/Desktop/LAB_2fjnal/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/40766/OneDrive/Desktop/LAB_2fjnal/cmake-build-debug/CMakeFiles/rebuild_cache.dir
